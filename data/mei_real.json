@@ -1,0 +1,765 @@
+{
+    "header": {
+        "id": "bee1a273-7618-4fd9-a296-100eba4aa523",
+        "test": false,
+        "prepared": "2022-05-02T01:06:51.6043126Z",
+        "sender": {
+            "id": "OECD",
+            "name": "Organisation for Economic Co-operation and Development"
+        },
+        "links": [
+            {
+                "href": "https://stats.oecd.org:443/SDMX-JSON/data/MEI_REAL/SLRTTO01+SLRTCR03.GBR.M/all?startTime=2018&endTime=2021",
+                "rel": "request"
+            }
+        ]
+    },
+    "dataSets": [
+        {
+            "action": "Information",
+            "series": {
+                "0:0:0": {
+                    "attributes": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "observations": {
+                        "0": [
+                            107.1991,
+                            null
+                        ],
+                        "1": [
+                            107.4241,
+                            null
+                        ],
+                        "2": [
+                            106.0742,
+                            null
+                        ],
+                        "3": [
+                            107.7615,
+                            null
+                        ],
+                        "4": [
+                            109.8988,
+                            null
+                        ],
+                        "5": [
+                            109.3363,
+                            null
+                        ],
+                        "6": [
+                            110.5737,
+                            null
+                        ],
+                        "7": [
+                            110.7987,
+                            null
+                        ],
+                        "8": [
+                            110.1237,
+                            null
+                        ],
+                        "9": [
+                            109.8988,
+                            null
+                        ],
+                        "10": [
+                            111.4736,
+                            null
+                        ],
+                        "11": [
+                            111.1361,
+                            null
+                        ],
+                        "12": [
+                            111.811,
+                            null
+                        ],
+                        "13": [
+                            111.6985,
+                            null
+                        ],
+                        "14": [
+                            112.3735,
+                            null
+                        ],
+                        "15": [
+                            112.4859,
+                            null
+                        ],
+                        "16": [
+                            111.9235,
+                            null
+                        ],
+                        "17": [
+                            113.1609,
+                            null
+                        ],
+                        "18": [
+                            114.0607,
+                            null
+                        ],
+                        "19": [
+                            113.1609,
+                            null
+                        ],
+                        "20": [
+                            112.8234,
+                            null
+                        ],
+                        "21": [
+                            112.7109,
+                            null
+                        ],
+                        "22": [
+                            112.036,
+                            null
+                        ],
+                        "23": [
+                            111.5861,
+                            null
+                        ],
+                        "24": [
+                            113.1609,
+                            null
+                        ],
+                        "25": [
+                            111.9235,
+                            null
+                        ],
+                        "26": [
+                            107.1991,
+                            null
+                        ],
+                        "27": [
+                            91.78853,
+                            null
+                        ],
+                        "28": [
+                            101.7998,
+                            null
+                        ],
+                        "29": [
+                            115.1856,
+                            null
+                        ],
+                        "30": [
+                            117.8853,
+                            null
+                        ],
+                        "31": [
+                            118.6727,
+                            null
+                        ],
+                        "32": [
+                            120.0225,
+                            null
+                        ],
+                        "33": [
+                            121.9348,
+                            null
+                        ],
+                        "34": [
+                            117.5478,
+                            null
+                        ],
+                        "35": [
+                            119.2351,
+                            null
+                        ],
+                        "36": [
+                            108.9989,
+                            null
+                        ],
+                        "37": [
+                            111.3611,
+                            null
+                        ],
+                        "38": [
+                            115.0731,
+                            null
+                        ],
+                        "39": [
+                            125.0844,
+                            null
+                        ],
+                        "40": [
+                            122.3847,
+                            null
+                        ],
+                        "41": [
+                            122.6097,
+                            null
+                        ],
+                        "42": [
+                            118.8976,
+                            null
+                        ],
+                        "43": [
+                            118.1102,
+                            null
+                        ],
+                        "44": [
+                            117.4353,
+                            null
+                        ],
+                        "45": [
+                            119.685,
+                            null
+                        ],
+                        "46": [
+                            119.3476,
+                            null
+                        ],
+                        "47": [
+                            115.1856,
+                            null
+                        ]
+                    }
+                },
+                "1:0:0": {
+                    "attributes": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "observations": {
+                        "0": [
+                            94.34372,
+                            null
+                        ],
+                        "1": [
+                            93.5041,
+                            null
+                        ],
+                        "2": [
+                            94.9246,
+                            null
+                        ],
+                        "3": [
+                            92.02663,
+                            null
+                        ],
+                        "4": [
+                            94.35636,
+                            null
+                        ],
+                        "5": [
+                            92.2276,
+                            null
+                        ],
+                        "6": [
+                            92.36236,
+                            null
+                        ],
+                        "7": [
+                            93.56793,
+                            null
+                        ],
+                        "8": [
+                            78.98532,
+                            null
+                        ],
+                        "9": [
+                            89.18842,
+                            null
+                        ],
+                        "10": [
+                            89.08945,
+                            null
+                        ],
+                        "11": [
+                            86.34197,
+                            null
+                        ],
+                        "12": [
+                            92.78143,
+                            null
+                        ],
+                        "13": [
+                            93.81422,
+                            null
+                        ],
+                        "14": [
+                            94.03606,
+                            null
+                        ],
+                        "15": [
+                            86.26058,
+                            null
+                        ],
+                        "16": [
+                            87.31353,
+                            null
+                        ],
+                        "17": [
+                            86.32276,
+                            null
+                        ],
+                        "18": [
+                            86.80645,
+                            null
+                        ],
+                        "19": [
+                            87.8151,
+                            null
+                        ],
+                        "20": [
+                            82.95329,
+                            null
+                        ],
+                        "21": [
+                            82.152,
+                            null
+                        ],
+                        "22": [
+                            86.56406,
+                            null
+                        ],
+                        "23": [
+                            87.05742,
+                            null
+                        ],
+                        "24": [
+                            87.01254,
+                            null
+                        ],
+                        "25": [
+                            92.48309,
+                            null
+                        ],
+                        "26": [
+                            54.60478,
+                            null
+                        ],
+                        "27": [
+                            2.217097,
+                            null
+                        ],
+                        "28": [
+                            9.258589,
+                            null
+                        ],
+                        "29": [
+                            55.1463,
+                            null
+                        ],
+                        "30": [
+                            94.16097,
+                            null
+                        ],
+                        "31": [
+                            80.65015,
+                            null
+                        ],
+                        "32": [
+                            82.1715,
+                            null
+                        ],
+                        "33": [
+                            79.23853,
+                            null
+                        ],
+                        "34": [
+                            61.98804,
+                            null
+                        ],
+                        "35": [
+                            75.13223,
+                            null
+                        ],
+                        "36": [
+                            53.34906,
+                            null
+                        ],
+                        "37": [
+                            62.07837,
+                            null
+                        ],
+                        "38": [
+                            63.517,
+                            null
+                        ],
+                        "39": [
+                            69.55547,
+                            null
+                        ],
+                        "40": [
+                            69.1548,
+                            null
+                        ],
+                        "41": [
+                            69.064,
+                            null
+                        ],
+                        "42": [
+                            64.87046,
+                            null
+                        ],
+                        "43": [
+                            62.35958,
+                            null
+                        ],
+                        "44": [
+                            55.96323,
+                            null
+                        ],
+                        "45": [
+                            59.37848,
+                            null
+                        ],
+                        "46": [
+                            61.89397,
+                            null
+                        ],
+                        "47": [
+                            60.08191,
+                            null
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "structure": {
+        "links": [
+            {
+                "href": "https://stats.oecd.org/SDMX-JSON/dataflow/MEI_REAL/all",
+                "rel": "dataflow"
+            }
+        ],
+        "name": "Production and Sales (MEI)",
+        "description": "Production and Sales (MEI)",
+        "dimensions": {
+            "series": [
+                {
+                    "keyPosition": 0,
+                    "id": "SUBJECT",
+                    "name": "Subject",
+                    "values": [
+                        {
+                            "id": "SLRTTO01",
+                            "name": "Total retail trade (Volume) sa, Index"
+                        },
+                        {
+                            "id": "SLRTCR03",
+                            "name": "Passenger car registrations sa, Index"
+                        }
+                    ]
+                },
+                {
+                    "keyPosition": 1,
+                    "id": "LOCATION",
+                    "name": "Country",
+                    "values": [
+                        {
+                            "id": "GBR",
+                            "name": "United Kingdom"
+                        }
+                    ],
+                    "role": "REF_AREA"
+                },
+                {
+                    "keyPosition": 2,
+                    "id": "FREQUENCY",
+                    "name": "Frequency",
+                    "values": [
+                        {
+                            "id": "M",
+                            "name": "Monthly"
+                        }
+                    ],
+                    "role": "FREQ"
+                }
+            ],
+            "observation": [
+                {
+                    "id": "TIME_PERIOD",
+                    "name": "Time",
+                    "values": [
+                        {
+                            "id": "2018-01",
+                            "name": "Jan-2018"
+                        },
+                        {
+                            "id": "2018-02",
+                            "name": "Feb-2018"
+                        },
+                        {
+                            "id": "2018-03",
+                            "name": "Mar-2018"
+                        },
+                        {
+                            "id": "2018-04",
+                            "name": "Apr-2018"
+                        },
+                        {
+                            "id": "2018-05",
+                            "name": "May-2018"
+                        },
+                        {
+                            "id": "2018-06",
+                            "name": "Jun-2018"
+                        },
+                        {
+                            "id": "2018-07",
+                            "name": "Jul-2018"
+                        },
+                        {
+                            "id": "2018-08",
+                            "name": "Aug-2018"
+                        },
+                        {
+                            "id": "2018-09",
+                            "name": "Sep-2018"
+                        },
+                        {
+                            "id": "2018-10",
+                            "name": "Oct-2018"
+                        },
+                        {
+                            "id": "2018-11",
+                            "name": "Nov-2018"
+                        },
+                        {
+                            "id": "2018-12",
+                            "name": "Dec-2018"
+                        },
+                        {
+                            "id": "2019-01",
+                            "name": "Jan-2019"
+                        },
+                        {
+                            "id": "2019-02",
+                            "name": "Feb-2019"
+                        },
+                        {
+                            "id": "2019-03",
+                            "name": "Mar-2019"
+                        },
+                        {
+                            "id": "2019-04",
+                            "name": "Apr-2019"
+                        },
+                        {
+                            "id": "2019-05",
+                            "name": "May-2019"
+                        },
+                        {
+                            "id": "2019-06",
+                            "name": "Jun-2019"
+                        },
+                        {
+                            "id": "2019-07",
+                            "name": "Jul-2019"
+                        },
+                        {
+                            "id": "2019-08",
+                            "name": "Aug-2019"
+                        },
+                        {
+                            "id": "2019-09",
+                            "name": "Sep-2019"
+                        },
+                        {
+                            "id": "2019-10",
+                            "name": "Oct-2019"
+                        },
+                        {
+                            "id": "2019-11",
+                            "name": "Nov-2019"
+                        },
+                        {
+                            "id": "2019-12",
+                            "name": "Dec-2019"
+                        },
+                        {
+                            "id": "2020-01",
+                            "name": "Jan-2020"
+                        },
+                        {
+                            "id": "2020-02",
+                            "name": "Feb-2020"
+                        },
+                        {
+                            "id": "2020-03",
+                            "name": "Mar-2020"
+                        },
+                        {
+                            "id": "2020-04",
+                            "name": "Apr-2020"
+                        },
+                        {
+                            "id": "2020-05",
+                            "name": "May-2020"
+                        },
+                        {
+                            "id": "2020-06",
+                            "name": "Jun-2020"
+                        },
+                        {
+                            "id": "2020-07",
+                            "name": "Jul-2020"
+                        },
+                        {
+                            "id": "2020-08",
+                            "name": "Aug-2020"
+                        },
+                        {
+                            "id": "2020-09",
+                            "name": "Sep-2020"
+                        },
+                        {
+                            "id": "2020-10",
+                            "name": "Oct-2020"
+                        },
+                        {
+                            "id": "2020-11",
+                            "name": "Nov-2020"
+                        },
+                        {
+                            "id": "2020-12",
+                            "name": "Dec-2020"
+                        },
+                        {
+                            "id": "2021-01",
+                            "name": "Jan-2021"
+                        },
+                        {
+                            "id": "2021-02",
+                            "name": "Feb-2021"
+                        },
+                        {
+                            "id": "2021-03",
+                            "name": "Mar-2021"
+                        },
+                        {
+                            "id": "2021-04",
+                            "name": "Apr-2021"
+                        },
+                        {
+                            "id": "2021-05",
+                            "name": "May-2021"
+                        },
+                        {
+                            "id": "2021-06",
+                            "name": "Jun-2021"
+                        },
+                        {
+                            "id": "2021-07",
+                            "name": "Jul-2021"
+                        },
+                        {
+                            "id": "2021-08",
+                            "name": "Aug-2021"
+                        },
+                        {
+                            "id": "2021-09",
+                            "name": "Sep-2021"
+                        },
+                        {
+                            "id": "2021-10",
+                            "name": "Oct-2021"
+                        },
+                        {
+                            "id": "2021-11",
+                            "name": "Nov-2021"
+                        },
+                        {
+                            "id": "2021-12",
+                            "name": "Dec-2021"
+                        }
+                    ],
+                    "role": "TIME_PERIOD"
+                }
+            ]
+        },
+        "attributes": {
+            "dataSet": [],
+            "series": [
+                {
+                    "id": "TIME_FORMAT",
+                    "name": "Time Format",
+                    "values": [
+                        {
+                            "id": "P1M",
+                            "name": "Monthly"
+                        }
+                    ]
+                },
+                {
+                    "id": "UNIT",
+                    "name": "Unit",
+                    "values": [
+                        {
+                            "id": "IDX",
+                            "name": "Index"
+                        }
+                    ],
+                    "role": "UNIT_MEASURE"
+                },
+                {
+                    "id": "POWERCODE",
+                    "name": "Unit multiplier",
+                    "default": "0",
+                    "values": [
+                        {
+                            "id": "0",
+                            "name": "Units"
+                        }
+                    ],
+                    "role": "UNIT_MULT"
+                },
+                {
+                    "id": "REFERENCEPERIOD",
+                    "name": "Reference period",
+                    "values": [
+                        {
+                            "id": "2015_100",
+                            "name": "2015=100"
+                        }
+                    ],
+                    "role": "BASE_PER"
+                }
+            ],
+            "observation": [
+                {
+                    "id": "OBS_STATUS",
+                    "name": "Observation Status",
+                    "values": []
+                }
+            ]
+        },
+        "annotations": [
+            {
+                "title": "Copyright OECD - All rights reserved",
+                "uri": "",
+                "text": ""
+            },
+            {
+                "title": "Terms and Conditions",
+                "uri": "http://www.oecd.org/termsandconditions/",
+                "text": ""
+            },
+            {
+                "title": "Privacy Policy",
+                "uri": "http://www.oecd.org/privacy/",
+                "text": ""
+            },
+            {
+                "title": "MyOECD",
+                "uri": "https://www.oecd.org/login",
+                "text": ""
+            },
+            {
+                "title": "Contact Us",
+                "uri": "http://www.oecd.org/contact/",
+                "text": ""
+            }
+        ]
+    }
+}
